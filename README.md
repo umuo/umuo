@@ -6,11 +6,9 @@
 
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=mrniebit&show_icons=true&theme=synthwave" alt="Anurag's GitHub stats" style="zoom:100%; margin-left: 0px;" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrniebit&layout=compact&hide_progress=false" alt="Anurag's GitHub stats" style="zoom:100%; margin-right: 0px;" />
+<img src="https://github-readme-stats.vercel.app/api?username=mrniebit&show_icons=true&theme=synthwave" alt="Anurag's GitHub stats" style="zoom:100%; margin-left: 0px;" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrniebit&layout=compact&hide_progress=false" alt="Anurag's GitHub stats" style="zoom:100%; margin-right: 0px; width: 360px;" />
 
 
-
-### 
 
 
 
